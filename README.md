@@ -5,7 +5,7 @@ This project develops a machine learning model to detect fraudulent transactions
 The system identifies fraudulent transactions in credit card data.
 
 ## Dataset
-- Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/dalpozz/creditcard-fraud)
+- Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Setup
 Install dependencies:
